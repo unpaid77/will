@@ -1,0 +1,56 @@
+0000000000000000000000000000000000000000 33347b1488a306f0ae5cb3186805fd0f178880f4 pradeepldt <pk@ldttechnology.com> 1605599562 +0530	branch: Created from refs/remotes/origin/master
+33347b1488a306f0ae5cb3186805fd0f178880f4 33347b1488a306f0ae5cb3186805fd0f178880f4 pradeepldt <pk@ldttechnology.com> 1605599562 +0530	checkout: moving from master to master
+33347b1488a306f0ae5cb3186805fd0f178880f4 33347b1488a306f0ae5cb3186805fd0f178880f4 pradeepldt <pk@ldttechnology.com> 1605599762 +0530	checkout: moving from master to master
+33347b1488a306f0ae5cb3186805fd0f178880f4 33347b1488a306f0ae5cb3186805fd0f178880f4 pradeepldt <pk@ldttechnology.com> 1605599773 +0530	checkout: moving from master to origin/android
+33347b1488a306f0ae5cb3186805fd0f178880f4 33347b1488a306f0ae5cb3186805fd0f178880f4 pradeepldt <pk@ldttechnology.com> 1605599813 +0530	checkout: moving from 33347b1488a306f0ae5cb3186805fd0f178880f4 to master
+33347b1488a306f0ae5cb3186805fd0f178880f4 e08ff34cd2176f4e6242b2ca33b2622e36440fc3 pradeepldt <pk@ldttechnology.com> 1605599864 +0530	checkout: moving from master to origin/iOS_Dev
+e08ff34cd2176f4e6242b2ca33b2622e36440fc3 33347b1488a306f0ae5cb3186805fd0f178880f4 pradeepldt <pk@ldttechnology.com> 1605599879 +0530	checkout: moving from e08ff34cd2176f4e6242b2ca33b2622e36440fc3 to master
+33347b1488a306f0ae5cb3186805fd0f178880f4 ea8fc30a9a700860a51385b9b05a6239b3ea1e77 pradeepldt <pk@ldttechnology.com> 1605600244 +0530	commit (merge): merged
+ea8fc30a9a700860a51385b9b05a6239b3ea1e77 33347b1488a306f0ae5cb3186805fd0f178880f4 pradeepldt <pk@ldttechnology.com> 1605600365 +0530	checkout: moving from master to origin/android
+33347b1488a306f0ae5cb3186805fd0f178880f4 ea8fc30a9a700860a51385b9b05a6239b3ea1e77 pradeepldt <pk@ldttechnology.com> 1605600391 +0530	merge master: Fast-forward
+ea8fc30a9a700860a51385b9b05a6239b3ea1e77 cc727d53d48522854424d1381f53c670281db60f pradeepldt <pk@ldttechnology.com> 1605846224 +0530	commit: hello
+cc727d53d48522854424d1381f53c670281db60f 40aa9d8f2a02542d9815b078ab870cff4f277a2e pradeepldt <pk@ldttechnology.com> 1605846293 +0530	pull origin master: Merge made by the 'recursive' strategy.
+40aa9d8f2a02542d9815b078ab870cff4f277a2e bb97f54c94c47f2dd48d0fd2539cc5f0e3932125 pradeepldt <pk@ldttechnology.com> 1605860397 +0530	commit: ios missed code added
+bb97f54c94c47f2dd48d0fd2539cc5f0e3932125 ea8fc30a9a700860a51385b9b05a6239b3ea1e77 pradeepldt <pk@ldttechnology.com> 1605860428 +0530	checkout: moving from bb97f54c94c47f2dd48d0fd2539cc5f0e3932125 to master
+ea8fc30a9a700860a51385b9b05a6239b3ea1e77 33347b1488a306f0ae5cb3186805fd0f178880f4 pradeepldt <pk@ldttechnology.com> 1605860451 +0530	checkout: moving from master to origin/android
+33347b1488a306f0ae5cb3186805fd0f178880f4 ea8fc30a9a700860a51385b9b05a6239b3ea1e77 pradeepldt <pk@ldttechnology.com> 1605860508 +0530	checkout: moving from 33347b1488a306f0ae5cb3186805fd0f178880f4 to master
+ea8fc30a9a700860a51385b9b05a6239b3ea1e77 33347b1488a306f0ae5cb3186805fd0f178880f4 pradeepldt <pk@ldttechnology.com> 1605860575 +0530	checkout: moving from master to origin/android
+33347b1488a306f0ae5cb3186805fd0f178880f4 ea8fc30a9a700860a51385b9b05a6239b3ea1e77 pradeepldt <pk@ldttechnology.com> 1605866048 +0530	checkout: moving from 33347b1488a306f0ae5cb3186805fd0f178880f4 to master
+ea8fc30a9a700860a51385b9b05a6239b3ea1e77 ea8fc30a9a700860a51385b9b05a6239b3ea1e77 pradeepldt <pk@ldttechnology.com> 1605866251 +0530	checkout: moving from master to origin/android
+ea8fc30a9a700860a51385b9b05a6239b3ea1e77 ea8fc30a9a700860a51385b9b05a6239b3ea1e77 pradeepldt <pk@ldttechnology.com> 1605866446 +0530	checkout: moving from ea8fc30a9a700860a51385b9b05a6239b3ea1e77 to master
+ea8fc30a9a700860a51385b9b05a6239b3ea1e77 ea8fc30a9a700860a51385b9b05a6239b3ea1e77 pradeepldt <pk@ldttechnology.com> 1606016733 +0530	checkout: moving from master to master
+ea8fc30a9a700860a51385b9b05a6239b3ea1e77 c3cb778dc5701f1c8c2a8f25129b3ccc93809147 pradeepldt <pk@ldttechnology.com> 1606016760 +0530	pull origin master: Fast-forward
+c3cb778dc5701f1c8c2a8f25129b3ccc93809147 ea8fc30a9a700860a51385b9b05a6239b3ea1e77 pradeepldt <pk@ldttechnology.com> 1606016786 +0530	checkout: moving from master to origin/android
+ea8fc30a9a700860a51385b9b05a6239b3ea1e77 c3cb778dc5701f1c8c2a8f25129b3ccc93809147 pradeepldt <pk@ldttechnology.com> 1606016840 +0530	checkout: moving from ea8fc30a9a700860a51385b9b05a6239b3ea1e77 to master
+c3cb778dc5701f1c8c2a8f25129b3ccc93809147 fc8dd44ac624def8b88b1aa4c2be05308981b3a0 pradeepldt <pk@ldttechnology.com> 1606020881 +0530	commit: ios fixes
+fc8dd44ac624def8b88b1aa4c2be05308981b3a0 25f4da36b926b164298c070c1fae504c6238bd2a pradeepldt <pk@ldttechnology.com> 1606020944 +0530	commit: ios fix otp
+25f4da36b926b164298c070c1fae504c6238bd2a 6b7be06d116f48c51edcb8158a6f65a7c3cd0450 pradeepantal <pk@ldttechnology.com> 1606734113 +0530	pull origin master: Fast-forward
+6b7be06d116f48c51edcb8158a6f65a7c3cd0450 47c0e0e696abcaa3443c3fe2d2baee89b5bfe1ec pradeepantal <pk@ldttechnology.com> 1607341543 +0530	pull origin master: Fast-forward
+47c0e0e696abcaa3443c3fe2d2baee89b5bfe1ec 99788b5aa06e5a73e93efdb50aced05b62e3e46a pradeepantal <pk@ldttechnology.com> 1607439126 +0530	commit (merge): suraj branch android 26 merged
+99788b5aa06e5a73e93efdb50aced05b62e3e46a a0bde9cf143843f7331dc75fedba0fede548280a pradeepantal <pk@ldttechnology.com> 1608044839 +0530	checkout: moving from master to origin/Android_Nov_26
+a0bde9cf143843f7331dc75fedba0fede548280a 99788b5aa06e5a73e93efdb50aced05b62e3e46a Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1608656590 +0530	checkout: moving from a0bde9cf143843f7331dc75fedba0fede548280a to master
+99788b5aa06e5a73e93efdb50aced05b62e3e46a fc4eb03f9ebd4f278274cd19bf708ddf41912c58 Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1608656605 +0530	pull origin master: Fast-forward
+fc4eb03f9ebd4f278274cd19bf708ddf41912c58 cf6d0fc07aaf6a38c12907c91168363a1f99fa4a Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1608656662 +0530	checkout: moving from master to origin/Android_Nov_26
+cf6d0fc07aaf6a38c12907c91168363a1f99fa4a cf6d0fc07aaf6a38c12907c91168363a1f99fa4a Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1608656670 +0530	checkout: moving from cf6d0fc07aaf6a38c12907c91168363a1f99fa4a to Android_Nov_26
+cf6d0fc07aaf6a38c12907c91168363a1f99fa4a cf6d0fc07aaf6a38c12907c91168363a1f99fa4a Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1608656698 +0530	checkout: moving from Android_Nov_26 to origin/Android_Nov_26
+cf6d0fc07aaf6a38c12907c91168363a1f99fa4a de674522ee41a81979f127b1129310033fd02bd1 Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1608656786 +0530	checkout: moving from cf6d0fc07aaf6a38c12907c91168363a1f99fa4a to origin/Android_Nov_26
+de674522ee41a81979f127b1129310033fd02bd1 fc4eb03f9ebd4f278274cd19bf708ddf41912c58 Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1608656820 +0530	checkout: moving from de674522ee41a81979f127b1129310033fd02bd1 to master
+fc4eb03f9ebd4f278274cd19bf708ddf41912c58 97ab730a6adf5816198bb9a7802b28c3afa1e865 Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1608657293 +0530	commit (merge): suraj code merged
+97ab730a6adf5816198bb9a7802b28c3afa1e865 7fca4fc9c4571cf4c08d81abbdd17084875807eb Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1608787189 +0530	commit: code merged issue resolved
+7fca4fc9c4571cf4c08d81abbdd17084875807eb ffce05eddf609f2584c405ccfa7208d0e6d3b805 Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1609306165 +0530	pull origin master: Fast-forward
+ffce05eddf609f2584c405ccfa7208d0e6d3b805 cf6d0fc07aaf6a38c12907c91168363a1f99fa4a Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1609306191 +0530	checkout: moving from master to Android_Nov_26
+cf6d0fc07aaf6a38c12907c91168363a1f99fa4a 7bb9b134a2fad8f33e510d34d9e3a78a9392a130 Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1609306211 +0530	pull origin Android_Nov_26: Fast-forward
+7bb9b134a2fad8f33e510d34d9e3a78a9392a130 ffce05eddf609f2584c405ccfa7208d0e6d3b805 Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1609306241 +0530	checkout: moving from Android_Nov_26 to master
+ffce05eddf609f2584c405ccfa7208d0e6d3b805 d1e9044836842cd882c736cd5fb4eb9d174bd479 Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1609306320 +0530	commit (merge): code merge
+d1e9044836842cd882c736cd5fb4eb9d174bd479 bfb24e1d0121d2f354b78018988e5e7fcbafb920 Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1609844673 +0530	commit: git asd
+bfb24e1d0121d2f354b78018988e5e7fcbafb920 7bb9b134a2fad8f33e510d34d9e3a78a9392a130 Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1609844735 +0530	checkout: moving from master to Android_Nov_26
+7bb9b134a2fad8f33e510d34d9e3a78a9392a130 69a2284c1b618ff1db734dbbd3608415b000bee5 Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1609844757 +0530	pull origin Android_Nov_26: Fast-forward
+69a2284c1b618ff1db734dbbd3608415b000bee5 bfb24e1d0121d2f354b78018988e5e7fcbafb920 Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1609844777 +0530	checkout: moving from Android_Nov_26 to master
+bfb24e1d0121d2f354b78018988e5e7fcbafb920 62acd9a9afe91934944e4ba21aa1f1daa2fa544d Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1609844922 +0530	commit (merge): code merged
+62acd9a9afe91934944e4ba21aa1f1daa2fa544d 758ddd2fcd4f8c6c973bfbb3a4817bdd90236682 Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1609850423 +0530	commit: meged
+758ddd2fcd4f8c6c973bfbb3a4817bdd90236682 6e7dd1bb6683db61bf0888a4f6a6f1ed61c6bff5 Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1609853262 +0530	commit: merged issue resolved
+6e7dd1bb6683db61bf0888a4f6a6f1ed61c6bff5 69a2284c1b618ff1db734dbbd3608415b000bee5 Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1610001238 +0530	checkout: moving from master to Android_Nov_26
+69a2284c1b618ff1db734dbbd3608415b000bee5 b8261648faa0cf9fe6cd3a273788b8469568a216 Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1610001261 +0530	pull origin Android_Nov_26: Fast-forward
+b8261648faa0cf9fe6cd3a273788b8469568a216 6e7dd1bb6683db61bf0888a4f6a6f1ed61c6bff5 Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1610001269 +0530	checkout: moving from Android_Nov_26 to master
+6e7dd1bb6683db61bf0888a4f6a6f1ed61c6bff5 2236b5998cdad2133044524db6d6083f20bb2a49 Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1610001343 +0530	commit (merge): merged
+2236b5998cdad2133044524db6d6083f20bb2a49 7093763da437ced8bd67977d4754a1f444d77a32 Pradeep Antal <pradeepantal@Pradeeps-MacBook-Air.local> 1610005927 +0530	commit: code merged

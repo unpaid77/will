@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "796030849152",
+    "project_id": "will-business",
+    "storage_bucket": "will-business.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796030849152:android:cdc6ddee4459a7cf52d665",
+        "android_client_info": {
+          "package_name": "com.will"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796030849152-u35fud3c3kb3n70q590vmiicedbfdiuj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.will",
+            "certificate_hash": "cb5c5cac86521267ca0031cc2075c33913c266ff"
+          }
+        },
+        {
+          "client_id": "796030849152-1ekhdmf6ba7nlmmvasuerqoke5pn80bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBreh0sI9BcJ_36QdIcezkh3tc2DSkynYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796030849152-1ekhdmf6ba7nlmmvasuerqoke5pn80bq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "796030849152-6t0etlnee9kmmjnep7eos7f7o5ft3f0r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.will",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
